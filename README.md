@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mad-Mal
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Python and advanced CSS.
+- 👀 I’m interested in Frontend Development but open to Full Stack Positions as well!
+- 🌱 I’m currently learning advanced CSS.
 - 💞️ I’m looking to collaborate on anything! I just want to code!
-- 📫 How to reach me on twitter, @FullStackMal
-
+- 📫 How to reach me on twitter, @FullStackMal. Or on LinkedIn https://www.linkedin.com/in/mallory-gabriella-hall/
+- Currently working as a Full Stack Intern at a startup called Ledgerfire
