@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Mad-Mal
-- 👀 I’m interested in Frontend Development but open to Full Stack Positions as well!
+- 👋 Hi, I’m Mallory!
+- 👀 I’m interested in Frontend Development but open to learning any kind of development!
 - 🌱 I’m currently learning advanced CSS.
 - 💞️ I’m looking to collaborate on anything! I just want to code!
 - 📫 How to reach me on twitter, @FullStackMal. Or on LinkedIn https://www.linkedin.com/in/mallory-gabriella-hall/
 - Currently working as a Full Stack Intern at a startup called Ledgerfire
+- My personal project that I started as of 3-6-22 is a social media app idea that I had and I just decided to build it! Check out TheTeapot!
