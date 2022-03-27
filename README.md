@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on anything! I just want to code!
 - 📫 How to reach me on twitter, @FullStackMal. Or on LinkedIn https://www.linkedin.com/in/mallory-gabriella-hall/
 - Currently working as a Full Stack Intern at a startup called Ledgerfire
-- My personal project that I started as of 3-6-22 is a social media app idea that I had and I just decided to build it! Check out TheTeapot!
+- My current personal project is building an art portfolio for a friend of mine! It's called Liz's portfolio!
