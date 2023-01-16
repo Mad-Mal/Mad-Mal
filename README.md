@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mallory!
+- 👋 Hi, I’m Mallory or London!
 - 👀 I’m interested in Frontend Development but open to learning any kind of development!
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently diving deeper into JavaScript and React!
 - 💞️ I’m looking to collaborate on anything! I just want to code!
 - 📫 How to reach me on twitter, @FullStackMal. Or on LinkedIn https://www.linkedin.com/in/mallory-gabriella-hall/
-- Currently working as a Full Stack Intern at a startup called Ledgerfire
-- My current personal project is building the Starbucks app with a few tweaks that I think woould be good for the app.
+- Currently I am looking for a role in either a Frontend Engineer position or a Support/Solutions Engineer position!
